@@ -1,0 +1,31 @@
+body {
+    margin-left: 25%;
+}
+table {
+    text-align: center;
+}
+.square {
+    width: 30px;
+    height: 30px;
+    border: solid 1px black;
+    margin: 3px;
+}
+.square2 {
+    width: 30px;
+    height: 30px;
+    border: solid 1px black;
+    margin: 3px;
+    background-color: black;
+}
+li {
+    font-family: Arial, Helvetica, sans-serif;
+}
+label {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+dl {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
